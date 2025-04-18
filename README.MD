@@ -4,7 +4,7 @@ Este proyecto propone el desarrollo de un sistema de control de semáforos utili
 
 > Proyecto desarrollado para la materia **Laboratorio de Sistemas Embebidos**  
 > Universidad Nacional de Río Negro  
-> **Integrantes**: Ángeles Rodríguez y José Lambrechts
+> **Integrantes**: Ángeles Rodríguez, Nehuen Rodríguez y José Lambrechts
 
 ---
 
