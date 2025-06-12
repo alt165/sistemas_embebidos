@@ -1,7 +1,9 @@
 import RPi.GPIO as GPIO
 import time
 
+
 class Semaforo:
+
     def __init__(self, pin_rojo, pin_amarillo, pin_verde, tiempo_rojo=10, tiempo_verde=15, tiempo_amarillo=3):
         self.pins = {
             "red": pin_rojo,

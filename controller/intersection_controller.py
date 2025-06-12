@@ -1,7 +1,9 @@
 import time
 from vision.detector_imagen import detectar_vehiculo
 
+
 class IntersectionController:
+
     def __init__(self, semaforo_sec, semaforo_principal, tiempo_min_verde):
         self.semaforo_secundario = semaforo_sec
         self.semaforo_principal = semaforo_principal
